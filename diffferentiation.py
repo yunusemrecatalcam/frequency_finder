@@ -48,7 +48,7 @@ while 1:
     print hp
     Yvars.lastY = Y
     if hp > 1.0:
-        print "ov my..."
+        print "ov my whistle detected dafdmdmj"
     plt.plot(np.linspace(-20000,20000,num=len(Yvars.diffY)),Yvars.diffY)
     plt.ylim([-1,1])
     fig.canvas.draw()
